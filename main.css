@@ -57,7 +57,17 @@ h3 {
 }
 
 hr {
-    border-top: #727476 1px solid;
-    border-color: #727476;
-    border-left: #727476;
+    border: none; /* Harus border none biar ga over-write gradient */
+    height: 1px;
+    margin-bottom: 1em;
+    background: linear-gradient(to right, rgba(255, 255, 255, 0), #727476, rgba(255, 255, 255, 0));
+    /* rgba akhirnya 0 buat set transparency */
+}
+
+.categories-list {
+    justify-content: center;
+    align-items: center;
+    gap: 2em;
+    font-size: x-large;
+    color: #838384;
 }
