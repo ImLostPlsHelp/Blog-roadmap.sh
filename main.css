@@ -71,3 +71,20 @@ hr {
     font-size: x-large;
     color: #838384;
 }
+
+.categories {
+    margin-bottom: 3rem;
+}
+
+.articles {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+}
+
+.article-card {
+    background: #3c4043;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+}

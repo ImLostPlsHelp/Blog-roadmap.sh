@@ -1,0 +1,46 @@
+{
+    "articles" : [
+        {
+            "title": "Build continuous integration pipelines with GitHub Actions",
+            "description" : "GitHub actions provide a really powerful way to integrate continuous integration and delivery into your applications.",
+            "date" : "June 24, 2022",
+            "category" : "DevOps"
+        },
+        {
+            "title": "Build continuous integration pipelines with GitHub Actions",
+            "description" : "GitHub actions provide a really powerful way to integrate continuous integration and delivery into your applications.",
+            "date" : "June 24, 2022",
+            "category" : "DevOps"
+        },
+        {
+            "title": "Build continuous integration pipelines with GitHub Actions",
+            "description" : "GitHub actions provide a really powerful way to integrate continuous integration and delivery into your applications.",
+            "date" : "June 24, 2022",
+            "category" : "DevOps"
+        },
+        {
+            "title": "Build continuous integration pipelines with GitHub Actions",
+            "description" : "GitHub actions provide a really powerful way to integrate continuous integration and delivery into your applications.",
+            "date" : "June 24, 2022",
+            "category" : "DevOps"
+        },
+        {
+            "title": "Build continuous integration pipelines with GitHub Actions",
+            "description" : "GitHub actions provide a really powerful way to integrate continuous integration and delivery into your applications.",
+            "date" : "June 24, 2022",
+            "category" : "DevOps"
+        },
+        {
+            "title": "Build continuous integration pipelines with GitHub Actions",
+            "description" : "GitHub actions provide a really powerful way to integrate continuous integration and delivery into your applications.",
+            "date" : "June 24, 2022",
+            "category" : "DevOps"
+        },
+        {
+            "title": "Build continuous integration pipelines with GitHub Actions",
+            "description" : "GitHub actions provide a really powerful way to integrate continuous integration and delivery into your applications.",
+            "date" : "June 24, 2022",
+            "category" : "DevOps"
+        }
+    ]
+}
